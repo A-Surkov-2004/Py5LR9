@@ -18,8 +18,8 @@ get_token_html = """
     <body>
         <h1>Log in here!</h1>
         <form action="" onsubmit="sendMessage(event)">
-            <input type="text" id="login" autocomplete="off"/>
-            <input type="text" id="password" autocomplete="off"/>
+            <input type="text" id="login" autocomplete="off" placeholder="Логин"/>
+            <input type="text" id="password" autocomplete="off" placeholder="Пароль"/>
             <button>Send</button>
         </form>
         <ul id='messages'>
@@ -68,7 +68,7 @@ get_status_html = """
     <body>
         <h1>Получить статус кэшбека</h1>
         <form action="" onsubmit="sendMessage(event)">
-            <input type="text" id="token" autocomplete="off"/>
+            <input type="text" id="token" autocomplete="off" placeholder="Введите токен"/>
             <button>Send</button>
         </form>
         <ul id='messages'>
