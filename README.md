@@ -32,3 +32,20 @@
       <li>Логин:'Richguy', Пароль: 'qwerty258'</li>
       <li>Логин:'newGuy', Пароль: 'noonewilleverhackpasswordthatlong'</li>
   </ul>
+
+
+# Демонстрация работы:
+
+![image](https://github.com/user-attachments/assets/ce864b2a-24a8-4528-937f-d7ba8f7a3342)
+
+![image](https://github.com/user-attachments/assets/4340db2c-e81b-4b8f-8744-1708e6cedd6d)
+
+![image](https://github.com/user-attachments/assets/d9876433-549c-468f-bbaa-90bdc1b07290)
+
+![image](https://github.com/user-attachments/assets/d053dacd-5920-493a-9451-8e1376627b28)
+
+![image](https://github.com/user-attachments/assets/bbba3d8d-7da8-4b61-882d-0e8f804a00d7)
+
+![image](https://github.com/user-attachments/assets/00534e87-a3bb-4aaa-94d7-06ce20dd8947)
+
+
